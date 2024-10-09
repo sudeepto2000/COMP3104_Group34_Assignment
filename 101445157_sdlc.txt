@@ -1,0 +1,1 @@
+DevOps is an essential part of the SDLC because it improves collaboration between development and operations teams, speeding up release cycles and ensuring higher quality software.
