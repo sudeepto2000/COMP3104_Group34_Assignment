@@ -1,1 +1,2 @@
 The COMP 3104 DevOps course teaches students how to implement continuous integration, delivery, and deployment practices using modern tools like GitHub Actions.
+Students will also learn about the tools and technologies that facilitate DevOps practices.
